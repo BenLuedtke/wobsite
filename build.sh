@@ -1,1 +1,1 @@
-python3 src/main.py "/wobsite/"
+python3 src/main.py "/"
